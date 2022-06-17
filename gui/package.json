@@ -14,7 +14,7 @@
   "author": "rockscripts",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^2.0.6"
+    "electron": "^15.5.5"
   },
   "dependencies": {
     "child_process": "^1.0.2",
